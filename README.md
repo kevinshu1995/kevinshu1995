@@ -13,6 +13,7 @@
 
 [<img align="left" alt="Kevin Hsu | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Kevin Hsu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kevin Hsu | Mail" width="22px" src="https://raw.githubusercontent.com/kevinshu1995/kevinshu1995/main/images/mail.png" />][mail]
 
 <br />
 <br />
@@ -40,6 +41,7 @@
 
 [website]: https://kevinshu1995.github.io/
 [linkedin]: https://www.linkedin.com/in/%E6%96%87%E4%BF%AE-%E8%A8%B1-7b472a18a/
+[mail]: mailto:kevinshu1995@gmail.com
 [maskMap]: https://kevinshu1995.github.io/maskmap/
 [blog]: https://kevinshu1995.github.io/blog/
 [medium]: https://medium.com/@wenshiuhsu
