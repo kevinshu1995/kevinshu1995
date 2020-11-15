@@ -27,9 +27,9 @@
 
 ---
 
-### 部落格文章
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### MEDIUM 文章
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 <br />
 <br />
