@@ -1,6 +1,6 @@
 ### Hi，我是許文修，網頁設計師、目標成為前端工程師 👋
 
-[![Website](https://img.shields.io/website?label=My WebSite&style=for-the-badge&url=https://kevinshu1995.github.io/)](https://kevinshu1995.github.io/)
+[![Website](https://img.shields.io/website?label=kevinshu1995.github.io&style=for-the-badge&url=https%3A%2F%2Fkevinshu1995.github.io/)](https://kevinshu1995.github.io/)
 
 ## 原本學設計的，突然發現寫網頁超好玩 :joy:
 
@@ -13,6 +13,9 @@
 
 [<img align="left" alt="Kevin Hsu | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Kevin Hsu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
 
 <details>
   <summary>:zap: 我的網站們</summary>
