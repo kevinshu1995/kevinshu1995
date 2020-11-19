@@ -13,3 +13,7 @@ jobs:
         with:
           comment_tag_name: MEDIUM
           feed_list: "https://medium.com/feed/@wenshiuhsu"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: BLOG
+          feed_list: "https://kevinshu1995.github.io/atom.xml"
