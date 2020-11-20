@@ -36,9 +36,6 @@
 - [《1917》最佳影片與導演獎熱門首選 | 電影雜談](https://medium.com/@wenshiuhsu/1917-%E6%9C%80%E4%BD%B3%E5%BD%B1%E7%89%87%E8%88%87%E5%B0%8E%E6%BC%94%E7%8D%8E%E7%86%B1%E9%96%80%E9%A6%96%E9%81%B8-%E9%9B%BB%E5%BD%B1%E9%9B%9C%E8%AB%87-aef56a13d953?source=rss-4bdd1182778a------2)
 <!-- MEDIUM:END -->
 
-<br />
-<br />
-
 ### Blog 文章
 <!-- Blog:START -->
 - [俄羅斯方塊謎題 | JS地下城 - 番外篇 - 001](https://kevinshu1995.github.io/blog/JSDungeons/20201119/3608252835/)
