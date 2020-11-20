@@ -15,5 +15,5 @@ jobs:
           feed_list: "https://medium.com/feed/@wenshiuhsu"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: BLOG
+          comment_tag_name: Blog
           feed_list: "https://kevinshu1995.github.io/atom.xml"
