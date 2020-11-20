@@ -16,4 +16,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: Blog
-          feed_list: "https://kevinshu1995.github.io/atom.xml"
+          feed_list: "https://kevinshu1995.github.io/blog/atom.xml"
