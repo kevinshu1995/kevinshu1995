@@ -39,11 +39,11 @@
 
 ### Blog 文章
 <!-- Blog:START -->
+- [gulp-gh-pages deploy 失敗QQ | 程式筆記 - 001](https://kevinshu1995.github.io/blog/codingnotes/20201208/907355643/)
 - [俄羅斯方塊謎題 | JS地下城 - 番外篇 - 001](https://kevinshu1995.github.io/blog/JSDungeons/20201119/3608252835/)
 - [線下不能群聚? 那線上總可以吧! 200人六角線上前端切版直播課程](https://kevinshu1995.github.io/blog/learningexp/20200530/4039908204/)
 - [CSS、JS切個時鐘吧 | JS地下城 - 002](https://kevinshu1995.github.io/blog/JSDungeons/20200304/357102620/)
 - [用 JavaScript 切出九九乘法表 | JS地下城 - 001](https://kevinshu1995.github.io/blog/JSDungeons/20200219/99449695/)
-- [《1917》最佳影片與導演獎熱門首選 | 電影雜談](https://kevinshu1995.github.io/blog/casualtalk/20200219/3056929099/)
 <!-- Blog:END -->
 
 <br />
