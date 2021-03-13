@@ -39,11 +39,11 @@
 
 ### Blog 文章
 <!-- Blog:START -->
+- [Hi 👋 我是許文修 - 網頁設計師，目前致力於研究前端技術](https://kevinshu1995.github.io/blog/casualtalk/20210313/290577396/)
+- [幹嘛不自己上網查就好的 JavaScript 世界時鐘 | JS地下城 - 004](https://kevinshu1995.github.io/blog/JSDungeons/20210309/613471034/)
 - [不負責任的 JavaScript 計算機 | JS地下城 - 003](https://kevinshu1995.github.io/blog/JSDungeons/20210222/2241008248/)
 - [gulp-gh-pages deploy 失敗QQ | 程式筆記 - 001](https://kevinshu1995.github.io/blog/codingnotes/20201208/907355643/)
 - [俄羅斯方塊謎題 | JS地下城 - 番外篇 - 001](https://kevinshu1995.github.io/blog/JSDungeons/20201119/3608252835/)
-- [線下不能群聚? 那線上總可以吧! 200人六角線上前端切版直播課程](https://kevinshu1995.github.io/blog/learningexp/20200530/4039908204/)
-- [CSS、JS切個時鐘吧 | JS地下城 - 002](https://kevinshu1995.github.io/blog/JSDungeons/20200304/357102620/)
 <!-- Blog:END -->
 
 <br />
