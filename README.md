@@ -40,10 +40,10 @@
 ### Blog 文章
 <!-- Blog:START -->
 - [Hi 👋 我是許文修 - 網頁設計師，目前致力於研究前端技術](https://kevinshu1995.github.io/blog/casualtalk/about-me/)
+- [我該早點學的前端技術|不學無術也該有個限度](https://kevinshu1995.github.io/blog/learningexp/look-IAmSuck/)
 - [幹嘛不自己上網查就好的 JavaScript 世界時鐘 | JS地下城 - 004](https://kevinshu1995.github.io/blog/JSDungeons/JS-Dungeon-004/)
 - [不負責任的 JavaScript 計算機 | JS地下城 - 003](https://kevinshu1995.github.io/blog/JSDungeons/JS-Dungeon-003/)
 - [gulp-gh-pages deploy 失敗QQ | 程式筆記 - 001](https://kevinshu1995.github.io/blog/codingnotes/gulp-gh-pages-deploy-failed-QQ-codingnotes-001/)
-- [俄羅斯方塊謎題 | JS地下城 - 番外篇 - 001](https://kevinshu1995.github.io/blog/JSDungeons/2020-11-19-JS-Dungeion-side-story-001/)
 <!-- Blog:END -->
 
 <br />
