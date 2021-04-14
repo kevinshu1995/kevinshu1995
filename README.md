@@ -40,7 +40,7 @@
 ### Blog 文章
 <!-- Blog:START -->
 - [Hi 👋 我是許文修 - 網頁設計師，目前致力於研究前端技術](https://kevinshu1995.github.io/blog/casualtalk/about-me/)
-- [消滅 Teachable 的 Sidebar 的時候到了 | Tampermonkey Userscript](https://kevinshu1995.github.io/blog/codingnotes/Tampermonkey-SideBarToggleButtonOnTeachable/)
+- [Teachable 的 Sidebar 你的時辰到了 | Tampermonkey Userscript](https://kevinshu1995.github.io/blog/codingnotes/Tampermonkey-SideBarToggleButtonOnTeachable/)
 - [我該早點學的前端技術|不學無術也該有個限度](https://kevinshu1995.github.io/blog/learningexp/look-IAmSuck/)
 - [幹嘛不自己上網查就好的 JavaScript 世界時鐘 | JS地下城 - 004](https://kevinshu1995.github.io/blog/JSDungeons/JS-Dungeon-004/)
 - [不負責任的 JavaScript 計算機 | JS地下城 - 003](https://kevinshu1995.github.io/blog/JSDungeons/JS-Dungeon-003/)
