@@ -4,7 +4,8 @@
 
 ## 原本學設計的，突然發現寫網頁超好玩 :joy:
 
-- :link: 2020年初才剛學會網頁時做的，很想重新來過 [個人網站][website]!
+- :link: ~2020年初才剛學會網頁時做的，很想重新來過個人網站!~
+- :link: [個人網站][website] 已經用 Nuxt.js + TailwindCSS 重寫啦! 來看一下~
 - :link: 2020年剛學了JS就寫了一個[口罩地圖][maskMap]
 - :crossed_swords: 目前正在學 Vue.js，希望可以趕快學到後端的東西~
 - :hammer_and_wrench: 學過設計，Adobe 系列都碰過，PS，AI，XD，Pr，AE，但年久失修了...
