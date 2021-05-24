@@ -10,6 +10,10 @@
 - :crossed_swords: 目前正在學 Vue.js，希望可以趕快學到後端的東西~
 - :hammer_and_wrench: 學過設計，Adobe 系列都碰過，PS，AI，XD，Pr，AE，但年久失修了...
 
+## 特殊經歷
+- [Material Design 文件協同翻譯 (已結束)](https://material-design.hexschool.io/)
+- [Tailwindcss.tw 文件協同翻譯 (進行中)](https://github.com/tailwindcss-tw/tailwindcss.com)
+
 ### 聯絡我:
 
 [<img align="left" alt="Kevin Hsu | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
