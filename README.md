@@ -1,4 +1,4 @@
-### Hi，我是許文修，網頁設計師、目標成為前端工程師 👋
+### Hi，我是許文修，網頁設計師、前端工程師 👋
 
 [My Website](https://kevinshu1995.github.io/)
 
@@ -8,7 +8,7 @@
 - :link: [個人網站][website] 已經用 Nuxt.js + TailwindCSS 重寫啦! 來看一下~
 - :link: 2020年剛學了JS就寫了一個[口罩地圖][maskMap]
 - :crossed_swords: 目前主要使用 Vue.js，未來規劃學習後端 ~
-- :hammer_and_wrench: 學過設計，Adobe 系列都碰過，PS，AI，XD，Pr，AE
+- :hammer_and_wrench: 學過設計，Adobe 系列都碰過，PS，AI，XD，Pr，AE，也用過 Figma
 
 ## 特殊經歷
 - [Material Design 文件協同翻譯 (已結束)](https://material-design.hexschool.io/)
