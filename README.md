@@ -23,10 +23,11 @@
 - [iPhone Clock App](https://github.com/kevinshu1995/pretending-app) - `Vue3`/`Jest`/`TailwindCSS`/`Vite`
 - [JS 地下城](https://github.com/kevinshu1995/hex_jsDungeon) - `Vanilla Javascript`/`TailwindCSS`/`Gulp`
 - [SideBarToggleButtonOnTeachable](https://github.com/kevinshu1995/SideBarToggleButtonOnTeachable) - `Tampermonkey`/`Javascript`
-- Frontend Mentor
+- [Frontend Mentor Challenges](https://www.frontendmentor.io/)
   - [Sign up form](https://github.com/kevinshu1995/react-tailwind-sign-up-form) - `React`/`Tailwind`/`Vite`
   - [Calculator app](https://github.com/kevinshu1995/react-calculator-app) - `React`/`Tailwind`/`Vite`
   - [Tip calculator app](https://github.com/kevinshu1995/react-tip-calculator-app) - `React`/`Tailwind`/`Vite`
+  - [Testimonial grid section](https://github.com/kevinshu1995/react-testimonials-grid-section) - `React`/`Tailwind`/`Vite`
 
 ### 聯絡我:
 
