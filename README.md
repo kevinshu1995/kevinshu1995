@@ -1,14 +1,18 @@
-### Hi，我是許文修，網頁設計師、前端工程師 👋
+### Hi，I am Kevin Hsu. 👋
+Frontend engineer / Web Designer / Graphic Designer
+
+你好！我是許文修，一名致力研究前端技術的前端工程師，
+目前主攻 Vue、Tailwind CSS。
 
 [My Website](https://kevinshu1995.github.io/)
 
-## 原本學設計的，突然發現寫網頁超好玩 :joy:
+## 原本學設計，現在覺得寫網頁超好玩~ :joy:
 
-- :link: ~2020年初才剛學會網頁時做的，很想重新來過個人網站!~
+- :link: ~2020年初才剛學會網頁時做的，很想重新來過個人網站!~ 已經不給看了 :)
 - :link: [個人網站][website] 已經用 Nuxt.js + TailwindCSS 重寫啦! 來看一下~
-- :link: 2020年剛學了JS就寫了一個[口罩地圖][maskMap]
-- :crossed_swords: 目前主要使用 Vue.js，未來規劃學習後端 ~
-- :hammer_and_wrench: 學過設計，Adobe 系列都碰過，PS，AI，XD，Pr，AE，也用過 Figma
+- :link: 2020年剛學了 JS 就寫了一個[口罩地圖][maskMap]
+- :crossed_swords: 目前主要在 Vue.js 生態系裡面打滾，也有在接觸 React.js，CSS 主要使用 TailwindCSS，未來規劃學習後端相關知識
+- :hammer_and_wrench: 學過產品設計，曾加入平面戰場，使用過 Adobe 系列: PS/AI/Pr/AE，也用過 UI/UX 相關軟體: Adobe XD / Figma
 
 ## 特殊經歷
 - [Material Design 文件協同翻譯 (已結束)](https://material-design.hexschool.io/)
