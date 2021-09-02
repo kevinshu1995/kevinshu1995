@@ -1,5 +1,5 @@
 ### Hi，I am Kevin Hsu. 👋
-Frontend engineer / Web Designer / Graphic Designer
+`Frontend engineer` / `Web Designer` / `Graphic Designer`
 
 你好！我是許文修，一名致力研究前端技術的前端工程師，
 目前主攻 Vue、Tailwind CSS。
