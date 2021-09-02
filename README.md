@@ -9,14 +9,24 @@
 ## 原本學設計，現在覺得寫網頁超好玩~ :joy:
 
 - :link: ~2020年初才剛學會網頁時做的，很想重新來過個人網站!~ 已經不給看了 :)
-- :link: [個人網站][website] 已經用 Nuxt.js + TailwindCSS 重寫啦! 來看一下~
-- :link: 2020年剛學了 JS 就寫了一個[口罩地圖][maskMap]
-- :crossed_swords: 目前主要在 Vue.js 生態系裡面打滾，也有在接觸 React.js，CSS 主要使用 TailwindCSS，未來規劃學習後端相關知識
+- :link: [個人網站][website] 已經用 `Nuxt.js` + `TailwindCSS` 重寫啦! 來看一下~
+- :link: 2020年剛學了 JavaScript 寫了一個[口罩地圖][maskMap]
+- :crossed_swords: 目前主要在 `Vue.js` 生態系裡面打滾，也有在接觸 `React.js`，CSS 主要使用 `TailwindCSS`，未來規劃學習後端相關知識
 - :hammer_and_wrench: 學過產品設計，曾加入平面戰場，使用過 Adobe 系列: PS/AI/Pr/AE，也用過 UI/UX 相關軟體: Adobe XD / Figma
 
 ## 特殊經歷
 - [Material Design 文件協同翻譯 (已結束)](https://material-design.hexschool.io/)
 - [Tailwindcss.tw 文件協同翻譯 (進行中)](https://github.com/tailwindcss-tw/tailwindcss.com)
+
+## Side Projects！
+
+- [iPhone Clock App](https://github.com/kevinshu1995/pretending-app) - `Vue3`/`Jest`/`TailwindCSS`/`Vite`
+- [JS 地下城](https://github.com/kevinshu1995/hex_jsDungeon) - `Vanilla Javascript`/`TailwindCSS`/`Gulp`
+- [SideBarToggleButtonOnTeachable](https://github.com/kevinshu1995/SideBarToggleButtonOnTeachable) - `Tampermonkey`/`Javascript`
+- Frontend Mentor
+  - [Sign up form](https://github.com/kevinshu1995/react-tailwind-sign-up-form) - `React`/`Tailwind`/`Vite`
+  - [Calculator app](https://github.com/kevinshu1995/react-calculator-app) - `React`/`Tailwind`/`Vite`
+  - [Tip calculator app](https://github.com/kevinshu1995/react-tip-calculator-app) - `React`/`Tailwind`/`Vite`
 
 ### 聯絡我:
 
