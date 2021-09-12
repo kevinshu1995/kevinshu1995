@@ -6,6 +6,10 @@
 
 [My Website][website]
 
+![Anurag's GitHub stats](https://gh-readme.vercel.app/api?username=kevinshu1995&show_icons=true&theme=gotham)
+
+---
+
 ## 原本學設計，現在覺得寫網頁超好玩~
 
 - :link: [個人網站][website] 已經用 `Nuxt.js` + `TailwindCSS` 重寫啦! 來看一下~
@@ -45,10 +49,6 @@
 3. [JS地下城][jsDungeon]: JS 練習網站，各項作品皆基於六角學院設計稿。
 4. [部落格][blog]: 個人部落格，寫一些個人的學習筆記、生活雜談、電影分享，歡迎交流。
 5. [Medium][medium]: 跟部落格的內容同步發布，歡迎交流。
-
----
-
-![Anurag's GitHub stats](https://gh-readme.vercel.app/api?username=kevinshu1995&show_icons=true&theme=gotham)
 
 ---
 
