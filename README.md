@@ -6,9 +6,9 @@
 
 [My Website][website]
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="https://gh-readme.vercel.app/api?username=kevinshu1995&show_icons=true&theme=gotham" />
-</a>
+<p align="center">
+ <img src="https://gh-readme.vercel.app/api?username=kevinshu1995&show_icons=true&theme=gotham" />
+</p>
 
 ---
 
