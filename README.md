@@ -22,6 +22,7 @@
   <a href="https://www.linkedin.com/in/kevin-hws">
     Linkedin
   </a>
+  <span> / </span>
   <a href="mailto:kevin.hsu.hws@gmail.com">
     E-mail
   </a>
