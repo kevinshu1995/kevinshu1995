@@ -48,7 +48,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://gh-readme.vercel.app/api?username=kevinshu1995&show_icons=true?theme=gotham)
+![Anurag's GitHub stats](https://gh-readme.vercel.app/api?username=kevinshu1995&show_icons=true&theme=gotham)
 
 ---
 
