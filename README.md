@@ -3,22 +3,20 @@
 </h1>
 
 <p align="center">
-  <code>Frontend engineer</code> / <code>Web Designer</code> / <code>Graphic Designer</code>
-</p>
-
-<p align="center">
   你好！我是許文修，一名致力研究前端技術的前端工程師，
   <br/>
   目前主攻 Vue、Tailwind CSS。
 </p>
 
 <p align="center">
-  <a href="https://kevinshu1995.github.io/">
-    My Website - 個人網站
-  </a>
+  <code>Frontend engineer</code> / <code>Web Designer</code> / <code>Graphic Designer</code>
 </p>
 
 <p align="center">
+  <a href="https://kevinshu1995.github.io/">
+    My Website - 個人網站
+  </a>
+  <span> / </span>
   <a href="https://www.linkedin.com/in/kevin-hws">
     Linkedin
   </a>
@@ -27,8 +25,6 @@
     E-mail
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://gh-readme.vercel.app/api?username=kevinshu1995&show_icons=true&theme=gotham" />
