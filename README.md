@@ -48,6 +48,10 @@
 
 ---
 
+![Anurag's GitHub stats](https://gh-readme.vercel.app/api?username=kevinshu1995&show_icons=true?theme=gotham)
+
+---
+
 ### MEDIUM 文章
 <!-- MEDIUM:START -->
 - [我該早點學的前端技術|不學無術也該有個限度](https://wenshiuhsu.medium.com/%E6%88%91%E8%A9%B2%E6%97%A9%E9%BB%9E%E5%AD%B8%E7%9A%84%E5%89%8D%E7%AB%AF%E6%8A%80%E8%A1%93-%E4%B8%8D%E5%AD%B8%E7%84%A1%E8%A1%93%E4%B9%9F%E8%A9%B2%E6%9C%89%E5%80%8B%E9%99%90%E5%BA%A6-6fd719bf31f1?source=rss-4bdd1182778a------2)
