@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  你好！我是許文修，一名致力研究前端技術的前端工程師，
-  <br/>
-  目前主攻 Vue、Tailwind CSS。
+  <code>Frontend engineer</code> / <code>Web Designer</code> / <code>Graphic Designer</code>
 </p>
 
 <p align="center">
-  <code>Frontend engineer</code> / <code>Web Designer</code> / <code>Graphic Designer</code>
+  你好！我是許文修，一名致力研究前端技術的前端工程師，
+  <br/>
+  目前主攻 Vue、Tailwind CSS。
 </p>
 
 <p align="center">
