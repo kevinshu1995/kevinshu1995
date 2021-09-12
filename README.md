@@ -1,10 +1,20 @@
-### Hi, 👋👋👋 I am Kevin Hsu. 
-`Frontend engineer` / `Web Designer` / `Graphic Designer`
 
+<h1 align="center">
+Hi, 👋👋👋 I am Kevin Hsu. 
+</h3>
+
+<p align="center">
+ <code>Frontend engineer</code> / <code>Web Designer</code> / <code>Graphic Designer</code>
+</p>
+
+<p align="center">
 你好！我是許文修，一名致力研究前端技術的前端工程師，
 目前主攻 Vue、Tailwind CSS。
+</p>
 
-[My Website][website]
+<a href="https://kevinshu1995.github.io/">
+My Website - 個人網站
+</a>
 
 <p align="center">
  <img src="https://gh-readme.vercel.app/api?username=kevinshu1995&show_icons=true&theme=gotham" />
