@@ -18,6 +18,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevin-hws">
+    Linkedin
+  </a>
+  <a href="mailto:kevin.hsu.hws@gmail.com">
+    E-mail
+  </a>
+</p>
+
 ---
 
 <p align="center">
@@ -48,14 +57,6 @@
   - [Calculator app](https://github.com/kevinshu1995/react-calculator-app) - `React`/`Tailwind`/`Vite`
   - [Tip calculator app](https://github.com/kevinshu1995/react-tip-calculator-app) - `React`/`Tailwind`/`Vite`
   - [Testimonial grid section](https://github.com/kevinshu1995/react-testimonials-grid-section) - `React`/`Tailwind`/`Vite`
-
-### 聯絡我:
-
-[Linkedin][linkedin]
-[E-mail](mail)
-
-<br />
-<br />
 
 ### :zap: 我的網站們
   
@@ -89,7 +90,7 @@
 <br />
 
 [website]: https://kevinshu1995.github.io/
-[linkedin]: https://www.linkedin.com/in/%E6%96%87%E4%BF%AE-%E8%A8%B1-7b472a18a/
+[linkedin]: https://www.linkedin.com/in/kevin-hws
 [mail]: mailto:kevin.hsu.hws@gmail.com
 [maskMap]: https://kevinshu1995.github.io/maskmap/
 [blog]: https://kevinshu1995.github.io/blog/
