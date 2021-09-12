@@ -3,20 +3,18 @@
 </h1>
 
 <p align="center">
-
   <code>Frontend engineer</code> / <code>Web Designer</code> / <code>Graphic Designer</code>
- 
-  <br />
- 
+</p>
+
+<p align="center">
   你好！我是許文修，一名致力研究前端技術的前端工程師，
   目前主攻 Vue、Tailwind CSS。
- 
-  <br />
- 
+</p>
+
+<p align="center">
   <a href="https://kevinshu1995.github.io/">
     My Website - 個人網站
   </a>
-
 </p>
 
 <p align="center">
