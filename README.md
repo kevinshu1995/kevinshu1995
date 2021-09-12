@@ -6,7 +6,7 @@
 
 [My Website][website]
 
-![Anurag's GitHub stats](https://gh-readme.vercel.app/api?username=kevinshu1995&show_icons=true&theme=gotham)
+<img align="center" src="https://gh-readme.vercel.app/api?username=kevinshu1995&show_icons=true&theme=gotham" />
 
 ---
 
