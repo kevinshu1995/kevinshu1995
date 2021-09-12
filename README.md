@@ -1,9 +1,9 @@
 <h1 align="center">
   Hi, 👋👋👋 I am Kevin Hsu. 
-</h3>
+</h1>
 
 <p align="center">
- 
+
   <code>Frontend engineer</code> / <code>Web Designer</code> / <code>Graphic Designer</code>
  
   <br />
@@ -16,9 +16,11 @@
   <a href="https://kevinshu1995.github.io/">
     My Website - 個人網站
   </a>
- 
+
+</p>
+
+<p align="center">
   <img src="https://gh-readme.vercel.app/api?username=kevinshu1995&show_icons=true&theme=gotham" />
- 
 </p>
 
 ---
