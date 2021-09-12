@@ -12,7 +12,7 @@ Hi, 👋👋👋 I am Kevin Hsu.
 目前主攻 Vue、Tailwind CSS。
 </p>
 
-<a href="https://kevinshu1995.github.io/">
+<a align="center" href="https://kevinshu1995.github.io/">
 My Website - 個人網站
 </a>
 
