@@ -8,6 +8,7 @@
 
 <p align="center">
   你好！我是許文修，一名致力研究前端技術的前端工程師，
+  <br/>
   目前主攻 Vue、Tailwind CSS。
 </p>
 
@@ -16,6 +17,8 @@
     My Website - 個人網站
   </a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://gh-readme.vercel.app/api?username=kevinshu1995&show_icons=true&theme=gotham" />
