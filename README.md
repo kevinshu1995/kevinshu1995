@@ -35,14 +35,12 @@
 ## 原本學設計，現在覺得寫網頁超好玩~
 
 - :link: [個人網站][website] 已經用 `Nuxt.js` + `TailwindCSS` 重寫啦! 來看一下~
-- :link: ~2020 年初才剛學網頁時做的個人網站~ 已經不給看了 :)
-- :link: 2020年剛學了 JavaScript 寫了一個[口罩地圖][maskMap]
 - :crossed_swords: 目前主要在 `Vue.js` 生態系裡面打滾，也有在接觸 `React.js`，CSS 主要使用 `TailwindCSS`，未來規劃學習後端相關知識
 - :hammer_and_wrench: 學過產品設計，曾加入平面戰場，使用過 Adobe 系列: PS/AI/Pr/AE，也用過 UI/UX 相關軟體: Adobe XD / Figma
 
 ## 特殊經歷
 - [Material Design 文件協同翻譯 (已結束)](https://material-design.hexschool.io/)
-- [Tailwindcss.tw 文件協同翻譯 (進行中)](https://github.com/tailwindcss-tw/tailwindcss.com)
+- [Tailwindcss.tw 文件協同翻譯 (進行中，改版緩衝中...)](https://github.com/tailwindcss-tw/tailwindcss.com)
 
 ## Side Projects！
 
