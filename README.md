@@ -28,7 +28,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kevinshu1995&show_icons=true&theme=vision-friendly-dark&count_private=true&cache_seconds=86400&hide_title=true&include_all_commits=true&line_height=25&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinshu1995&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinshu1995&layout=compact&theme=vision-friendly-dark&hide_border=true&card_width=220" />
 </p>
 
 <p align="center">
