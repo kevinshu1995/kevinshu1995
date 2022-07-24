@@ -27,11 +27,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinshu1995&show_icons=true&theme=gotham" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinshu1995&show_icons=true&theme=gotham&count_private=true&cache_seconds=86400&hide_title=true&include_all_commits=true&line_height=25&hide_border=true&" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinshu1995&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinshu1995&layout=compact" />
 </p>
 
 ---
@@ -45,8 +45,6 @@
 ## 特殊經歷
 - [Material Design 文件協同翻譯 (已結束)](https://material-design.hexschool.io/)
 - [Tailwindcss.tw 文件協同翻譯 (進行中，改版緩衝中...)](https://github.com/tailwindcss-tw/tailwindcss.com)
-
----
 
 ## 使用技術
 
