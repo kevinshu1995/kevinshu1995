@@ -46,6 +46,27 @@
 - [Material Design 文件協同翻譯 (已結束)](https://material-design.hexschool.io/)
 - [Tailwindcss.tw 文件協同翻譯 (進行中，改版緩衝中...)](https://github.com/tailwindcss-tw/tailwindcss.com)
 
+---
+
+## 使用技術
+
+<p align="center">
+  <a href="https://github.com/kevinshu1995">
+    <img src="https://skillicons.dev/icons?i=git,vim,vite,webpack,vscode" />
+    /
+    <img src="https://skillicons.dev/icons?i=html,pug,css,sass,bootstrap,tailwind" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/kevinshu1995">
+    <img src="https://skillicons.dev/icons?i=js,vue,react,docker,py" />
+    /
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  </a>
+</p>
+
+---
+
 ## Side Projects！
 
 - [iPhone Clock App (開發中...)](https://github.com/kevinshu1995/pretending-app) - `Vue3`/`Jest`/`TailwindCSS`/`Vite`
@@ -65,25 +86,6 @@
 3. [JS地下城][jsDungeon]: JS 練習網站，各項作品皆基於六角學院設計稿。
 4. [部落格][blog]: 個人部落格，寫一些個人的學習筆記、生活雜談、電影分享，歡迎交流。
 5. [Medium][medium]: 跟部落格的內容同步發布，歡迎交流。
-
----
-
-### 使用技術
-
-<p align="center">
-  <a href="https://github.com/kevinshu1995">
-    <img src="https://skillicons.dev/icons?i=git,vim,vite,webpack,vscode" />
-    /
-    <img src="https://skillicons.dev/icons?i=html,pug,css,sass,bootstrap,tailwind" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/kevinshu1995">
-    <img src="https://skillicons.dev/icons?i=js,vue,react,docker,py" />
-    /
-    <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-  </a>
-</p>
 
 ---
 
