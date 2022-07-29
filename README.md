@@ -5,6 +5,11 @@
 <p align="center">
   <code>Frontend engineer</code> / <code>Web Designer</code> / <code>Graphic Designer</code>
 </p>
+<p align="center">
+  <a href="https://www.codewars.com/users/kevin_HWS" target="_blank">
+    <img src="https://www.codewars.com/users/kevin_HWS/badges/small"/>
+  </a>
+</p>
 
 <p align="center">
   <sub>
