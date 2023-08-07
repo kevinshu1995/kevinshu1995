@@ -57,7 +57,7 @@
 ### Special Experience
 
 - [Material Design 文件協同翻譯 (已結束)](https://material-design.hexschool.io/)
-- [Tailwindcss.tw 文件協同翻譯 (進行中，改版緩衝中...)](https://github.com/tailwindcss-tw/tailwindcss.com)
+- [Tailwindcss.tw 文件協同翻譯 (已暫停)](https://github.com/tailwindcss-tw/tailwindcss.com)
 
 ## 使用技術
 ### Skills
