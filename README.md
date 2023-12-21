@@ -81,7 +81,6 @@
 ### :zap: Side Projects！
 
 - [iPhone Clock App (開發中...)](https://github.com/kevinshu1995/pretending-app) - `Vue3`/`Jest`/`TailwindCSS`/`Vite`
-- [公車動態時刻查詢應用服務 (開發中...)](https://github.com/kevinshu1995/f2e-bus) - `Vue3`/`TailwindCSS`/`Vite`
 - [JS 地下城](https://github.com/kevinshu1995/hex_jsDungeon) - `Vanilla Javascript`/`TailwindCSS`/`Gulp`
 - [SideBarToggleButtonOnTeachable](https://github.com/kevinshu1995/SideBarToggleButtonOnTeachable) - `Tampermonkey`/`Javascript`
 - [Frontend Mentor Challenges](https://www.frontendmentor.io/)
