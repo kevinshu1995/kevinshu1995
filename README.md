@@ -80,6 +80,7 @@
 
 ### :zap: Side Projects！
 
+- [The Most annoying cookie banner (Hackthon)](https://github.com/kevinshu1995/annoying-cookie-banner) - `react`/`TailwindCSS`/`JavaScript Canvas`
 - [iPhone Clock App (開發中...)](https://github.com/kevinshu1995/pretending-app) - `Vue3`/`Jest`/`TailwindCSS`/`Vite`
 - [JS 地下城](https://github.com/kevinshu1995/hex_jsDungeon) - `Vanilla Javascript`/`TailwindCSS`/`Gulp`
 - [SideBarToggleButtonOnTeachable](https://github.com/kevinshu1995/SideBarToggleButtonOnTeachable) - `Tampermonkey`/`Javascript`
@@ -92,10 +93,8 @@
 ### :zap: 我的網站們 / Websites
   
 1. [個人網站][website]: 個人網站，彙整個人履歷與作品集。
-2. [口罩地圖][maskMap]: 因應2020年新冠肺炎 & 剛學JS，所以寫了這個網站當作練習。
-3. [JS地下城][jsDungeon]: JS 練習網站，各項作品皆基於六角學院設計稿。
-4. [部落格][blog]: 個人部落格，寫一些個人的學習筆記、生活雜談、電影分享，歡迎交流。
-5. [Medium][medium]: 跟部落格的內容同步發布，歡迎交流。
+2. [部落格][blog]: 個人部落格，寫一些個人的學習筆記、生活雜談、電影分享，歡迎交流。
+3. [Medium][medium]: 跟部落格的內容同步發布，歡迎交流。
 
 ---
 
