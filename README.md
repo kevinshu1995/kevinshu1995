@@ -5,11 +5,6 @@
 <p align="center">
   <code>Frontend engineer</code> / <code>Web Designer</code> / <code>Graphic Designer</code>
 </p>
-<p align="center">
-  <a href="https://www.codewars.com/users/kevin_HWS" target="_blank">
-    <img src="https://www.codewars.com/users/kevin_HWS/badges/small"/>
-  </a>
-</p>
 
 <p align="center">
   <sub>
@@ -49,8 +44,8 @@
 ## 原本學設計，現在覺得寫網頁超好玩~
 ### Previous designer is having fun with programming!
 
-- :link: [個人網站 / Portfolio site][website] 已經用 `Nuxt.js` + `TailwindCSS` 重寫啦! 來看一下~
-- :crossed_swords: 目前主要在 `Vue.js` 生態系裡面打滾，也有在接觸 `React.js`，CSS 主要使用 `TailwindCSS`，未來規劃學習後端相關知識
+- :link: [個人網站 / Portfolio site][website]
+- :crossed_swords: 目前主要在 `Vue.js` 生態系裡面打滾，也有在接觸 `React.js`，CSS 主要使用 `TailwindCSS`，持續學習後端相關知識
 - :hammer_and_wrench: 學過產品設計，曾加入平面戰場，使用過 Adobe 系列: PS/AI/Pr/AE，也用過 UI/UX 相關軟體: Adobe XD / Figma
 
 ## 特殊經歷
