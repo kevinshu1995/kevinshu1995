@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kevinshu1995.github.io/">
+  <a href="https://resume.hsiu.soy/">
     My Website - 個人網站
   </a>
   <span> / </span>
@@ -114,10 +114,10 @@
 <br />
 <br />
 
-[website]: https://kevinshu1995.github.io/
+[website]: https://resume.hsiu.soy/
 [linkedin]: https://www.linkedin.com/in/kevin-hws
 [mail]: mailto:kevin.hsu.hws@gmail.com
 [maskMap]: https://kevinshu1995.github.io/maskmap/
-[blog]: https://kevinshu1995.github.io/blog/
+[blog]: https://hsiu.soy/
 [medium]: https://medium.com/@wenshiuhsu
 [jsDungeon]: https://kevinshu1995.github.io/hex_jsDungeon/index.html
