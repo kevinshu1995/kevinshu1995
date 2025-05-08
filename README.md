@@ -104,11 +104,11 @@
 
 ### :zap: Blog 文章 / Blog Posts
 <!-- Blog:START -->
-- [Hi 👋 我是許文修 - 網頁設計師，目前致力於研究前端技術](https://kevinshu1995.github.io/blog/casualtalk/about-me/)
-- [Teachable 的 Sidebar 你的時辰到了 | Tampermonkey Userscript](https://kevinshu1995.github.io/blog/codingnotes/Tampermonkey-SideBarToggleButtonOnTeachable/)
-- [我該早點學的前端技術|不學無術也該有個限度](https://kevinshu1995.github.io/blog/learningexp/look-IAmSuck/)
-- [幹嘛不自己上網查就好的 JavaScript 世界時鐘 | JS地下城 - 004](https://kevinshu1995.github.io/blog/JSDungeons/JS-Dungeon-004/)
-- [不負責任的 JavaScript 計算機 | JS地下城 - 003](https://kevinshu1995.github.io/blog/JSDungeons/JS-Dungeon-003/)
+- [首頁](https://hsiu.soy/)
+- [文章列表 - 2](https://hsiu.soy/page_2)
+- [Hi 👋 我是許文修 - 網頁設計師，目前致力於研究前端技術](https://hsiu.soy/pages/about)
+- [Archive](https://hsiu.soy/pages/archives)
+- [Category](https://hsiu.soy/pages/category)
 <!-- Blog:END -->
 
 <br />
