@@ -24,6 +24,9 @@
   <a href="https://resume.hsiu.soy/">
     My Website - 個人網站
   </a>
+  <a href="https://photography.hsiu.soy/">
+    Photography gallery - 攝影作品網站
+  </a>
   <span> / </span>
   <a href="https://www.linkedin.com/in/kevin-hws">
     Linkedin
