@@ -24,6 +24,7 @@
   <a href="https://resume.hsiu.soy/">
     My Website - 個人網站
   </a>
+  <span> / </span>
   <a href="https://photography.hsiu.soy/">
     Photography gallery - 攝影作品網站
   </a>
@@ -48,6 +49,7 @@
 ### Previous designer is having fun with programming!
 
 - :link: [個人網站 / Portfolio site][website]
+- :link: [攝影作品網站 / Photography gallery site][photo-gallery-website]
 - :crossed_swords: 目前主要在 `Vue.js` 生態系裡面打滾，也有在接觸 `React.js`，CSS 主要使用 `TailwindCSS`，持續學習後端相關知識
 - :hammer_and_wrench: 學過產品設計，曾加入平面戰場，使用過 Adobe 系列: PS/AI/Pr/AE，也用過 UI/UX 相關軟體: Adobe XD / Figma
 
@@ -91,8 +93,9 @@
 ### :zap: 我的網站們 / Websites
   
 1. [個人網站][website]: 個人網站，彙整個人履歷與作品集。
-2. [部落格][blog]: 個人部落格，寫一些個人的學習筆記、生活雜談、電影分享，歡迎交流。
-3. [Medium][medium]: 跟部落格的內容同步發布，歡迎交流。
+2. [攝影網站][photo-gallery-website]: 個人攝影作品展示網站。
+3. [部落格][blog]: 個人部落格，寫一些個人的學習筆記、生活雜談、電影分享，歡迎交流。
+4. [Medium][medium]: 跟部落格的內容同步發布，歡迎交流。
 
 ---
 
@@ -118,6 +121,7 @@
 <br />
 
 [website]: https://resume.hsiu.soy/
+[photo-gallery-website]: https://photography.hsiu.soy/
 [linkedin]: https://www.linkedin.com/in/kevin-hws
 [mail]: mailto:kevin.hsu.hws@gmail.com
 [maskMap]: https://kevinshu1995.github.io/maskmap/
