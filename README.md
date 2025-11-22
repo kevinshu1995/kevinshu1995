@@ -110,11 +110,11 @@
 
 ### :zap: Blog 文章 / Blog Posts
 <!-- Blog:START -->
-- [Hi 👋 我是許文修 歡迎來到我的部落格](https://hsiu.soy/posts/about-me)
 - [聰明的處理前端表單 | FormData API | handling-form-without-any-dependencies](https://hsiu.soy/posts/2022-04-15-handling-form-without-any-dependencies)
 - [Teachable 的 Sidebar 你的時辰到了 | Tampermonkey Userscript](https://hsiu.soy/posts/2021-04-14-Tampermonkey-SideBarToggleButtonOnTeachable)
 - [我該早點學的前端技術|不學無術也該有個限度](https://hsiu.soy/posts/2021-03-30-look-IAmSuck)
 - [幹嘛不自己上網查就好的 JavaScript 世界時鐘 | JS地下城 - 004](https://hsiu.soy/posts/2021-03-09-JS-Dungeon-004)
+- [不負責任的 JavaScript 計算機 | JS地下城 - 003](https://hsiu.soy/posts/2021-02-22-JS-Dungeon-003)
 <!-- Blog:END -->
 
 <br />
