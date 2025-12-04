@@ -110,11 +110,11 @@
 
 ### :zap: Blog 文章 / Blog Posts
 <!-- Blog:START -->
+- [DNS 解析流程 | Resolving Domain Requests | Advance Web Development Quiz |](https://hsiu.soy/posts/2025-12-04-web-dev-quiz-03)
 - [渲染流程與合成 | Rendering Pipeline &amp; Compositing | Advance Web Development Quiz |](https://hsiu.soy/posts/2025-12-02-web-dev-quiz-02)
 - [async vs. defer | Advance Web Development Quiz |](https://hsiu.soy/posts/2025-12-01-web-dev-quiz-01)
 - [聰明的處理前端表單 | FormData API | handling-form-without-any-dependencies](https://hsiu.soy/posts/2022-04-15-handling-form-without-any-dependencies)
 - [Teachable 的 Sidebar 你的時辰到了 | Tampermonkey Userscript](https://hsiu.soy/posts/2021-04-14-Tampermonkey-SideBarToggleButtonOnTeachable)
-- [我該早點學的前端技術|不學無術也該有個限度](https://hsiu.soy/posts/2021-03-30-look-IAmSuck)
 <!-- Blog:END -->
 
 <br />
